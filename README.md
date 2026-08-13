@@ -1,4 +1,4 @@
-# V0ID is an a tool made by the astounding VOIDTOOLS team 
+# V0ID is a tool made by the astounding VOIDTOOLS team 
 
 # Link on website <3 
 
